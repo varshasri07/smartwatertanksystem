@@ -35,5 +35,6 @@ Pump.
 3. Level Horizontal widget to show the water level in the Tank.
 4. Two Labeled Value widgets to display the water flow level and the water bill
 5. And another Push Button to reset the Bill.
+![WhatsApp Image 2023-06-19 at 7 22 50 PM (2)](https://github.com/varshasri07/smartwatertanksystem/assets/110719275/5d445d96-63b8-448c-bdf3-900160c3b0e2)
 
 ![WhatsApp Image 2023-06-19 at 7 22 49 PM (1)](https://github.com/varshasri07/smartwatertanksystem/assets/110719275/83631049-8ab8-46b7-9128-938e04a7e468)
