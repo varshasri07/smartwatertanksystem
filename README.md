@@ -15,6 +15,14 @@ an idea of our daily water usage
 8. Thingspeak
 9. 20 liters Water can
 10. Water tap
+# outcomes
+Our project has following outcomes:
+1. Our system ensures that No overflow takes place from the tank which means no
+wastage of water.
+2. Our smart water tank solution automatically monitors the water level in the
+tank and provides real-time updates with the help of incorporated sensors.
+3. Provides daily water usage data
+4. provides water bill for individual household
 # Softwares used
 1.Blynk
 2.ThingSpeak
@@ -27,4 +35,5 @@ Pump.
 3. Level Horizontal widget to show the water level in the Tank.
 4. Two Labeled Value widgets to display the water flow level and the water bill
 5. And another Push Button to reset the Bill.
+
 ![WhatsApp Image 2023-06-19 at 7 22 49 PM (1)](https://github.com/varshasri07/smartwatertanksystem/assets/110719275/83631049-8ab8-46b7-9128-938e04a7e468)
