@@ -48,4 +48,3 @@ Pump.
 ![WhatsApp Image 2023-06-19 at 7 22 50 PM](https://github.com/varshasri07/smartwatertanksystem/assets/110719275/f3c2fb7c-297e-4def-89a9-6f1b2ed94df7)
 
 ![WhatsApp Image 2023-06-19 at 7 25 19 PM](https://github.com/varshasri07/smartwatertanksystem/assets/110719275/0b2599fa-8075-4027-bd91-edd13adab59d)
-
