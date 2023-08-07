@@ -1,9 +1,8 @@
 # smartwatertanksystem
 It is always a difficult task to monitorthe water tank is empty or not. If tank gets empty 
 then we have to pump water and then again we have to monitor the tank until it gets fill up 
-and sometimes 1 Figure 1: water wastage in the household. there may be a wastage of water if 
-pump was turned off late. Nowadays efficient water use is very important but we may not have 
-an idea of our daily water usage
+and sometimes  there may be a wastage of water if pump was turned off late. Nowadays efficient
+water use is very important but we may not have an idea of our daily water usage
 # components
 1. Nodemcuhttps
 2. Relay Module
